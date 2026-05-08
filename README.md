@@ -146,3 +146,4 @@ pytest tests/ -v
 | Phase 3 | 接入 RAG，索引 Vue 官方文档提升建议质量 |
 | Phase 4 | VS Code 插件，WebView 侧边栏展示结果 |
 | Phase 5 | Prompt Caching，降低约 60% token 成本 |
+
