@@ -1,0 +1,6 @@
+pyproject.toml
+vue_review_agent.egg-info/PKG-INFO
+vue_review_agent.egg-info/SOURCES.txt
+vue_review_agent.egg-info/dependency_links.txt
+vue_review_agent.egg-info/requires.txt
+vue_review_agent.egg-info/top_level.txt
